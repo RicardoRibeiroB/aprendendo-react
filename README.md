@@ -20,6 +20,7 @@ O JSX é mais rigoroso com tags que o proprio HTML5
 
 primeira impressão com react é que ele é mais facil que angularJS é bom para projetos curtos e rapidos, mas o angularJS me parece lidar melhor com projetos longos
 
+
 day 2
 
 Uma pessoa me deu um termo para entender react melhor que é "React é uma como umas peças de jogo", eu goostei muito do termo porque pelo oq eu estou vendo ele é literalmente isso hahaha 
@@ -27,3 +28,13 @@ Uma pessoa me deu um termo para entender react melhor que é "React é uma como 
 É utilizado bastantes components nele assim fica muito mais eficaz os codigos, podendo reutilizar o componente aonde quiser
 
 Uma boa pratica é inicar com letra maiúscula os componentes
+
+Posso usar props para os componentes, assim o valor do component nao é fixo, ele fica dinâmico
+
+Não posso utilizar - na hora de criar uma class porque o props nao reconhce
+
+Posso criar padrões no desenvolvimento com o css global 
+
+Posso fazer validações de tipos de dados usando propsType
+
+Diferença do react pro angularJS em termos componente é que o react usa os componentes o principal já no angular é mais para partes expecificas
