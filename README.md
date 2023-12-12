@@ -38,3 +38,12 @@ Posso criar padrões no desenvolvimento com o css global
 Posso fazer validações de tipos de dados usando propsType
 
 Diferença do react pro angularJS em termos componente é que o react usa os componentes o principal já no angular é mais para partes expecificas
+
+dia 3
+
+Comecei a ver como é os elementos DOM no com react e percebi que nao tem segredo, é basicamente um js nromal
+
+Até o momento uma das principais diferença que eu conclui do React para o AngularJS é que o React utiliza muito o js e o AngularJS usa o typeScript
+
+A maneira de manipular dados do React é diferente que a do angular, no React eu tenho um hook chamado State, assim consigo pegar os valores e enviar ao backEnd
+
